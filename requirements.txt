@@ -1,5 +1,6 @@
 jupyter
 ipykernel
+ipyparallel==8.8.0
 jupyterlab
 pandas
 sqlalchemy<2.0
@@ -8,8 +9,6 @@ seaborn
 pillow
 plotly
 wordcloud
-#stylecloud
-setuptools
 pillow
 spacy
 kaleido
