@@ -1,0 +1,14 @@
+jupyter
+ipykernel
+jupyterlab
+pandas
+sqlalchemy<2.0
+pymysql
+seaborn
+pillow
+plotly
+wordcloud
+#stylecloud
+setuptools
+pillow
+spacy
