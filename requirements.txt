@@ -12,3 +12,4 @@ wordcloud
 pillow
 spacy
 kaleido
+ydata-profiling==4.8.3
