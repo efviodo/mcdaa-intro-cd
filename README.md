@@ -59,7 +59,7 @@ jupyter notebook laboratorio_1.ipynb
   <img src="assets/image_02.png" style="width: 200px"/>
 </p>
 
-También puede ejecutarlo desde VSCode o Google Colab.
+También puede ejecutarlo desde VSCode o Google Colab, sin embargo recomendamos el uso de JupyterLab para una mejor experiencia.
 
 # Informe
 
@@ -150,4 +150,7 @@ def load_table(data_dir, table_name, engine):
 
 1. Instalación de Jupyter con pyenv
 https://brandonrozek.com/blog/jupyterwithpyenv/
+
+2. Spacy Models Downlaod
+https://spacy.io/usage/models 
 
