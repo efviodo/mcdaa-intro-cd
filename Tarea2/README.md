@@ -57,7 +57,7 @@ ipython kernel install --user --name introcd
 Ahora debería poder ejecutar el siguiente comando para levantar jupyter notebook localmente y correr el laboratorio:
 
 ```bash
-jupyter notebook laboratorio_1.ipynb
+jupyter notebook laboratorio_2.ipynb
 ```
 <p align="center">
   <img src="assets/image_02.png" style="width: 200px"/>
@@ -67,7 +67,7 @@ También puede ejecutarlo desde VSCode o Google Colab, sin embargo recomendamos 
 
 # Informes y
 
-El informe detallado elaborado a partir de los experimentos conducidos en este proyecto se encuentran en el archivo [Laboratorio_2_Informe_v1.0.pdf](Laboratorio_1_Informe.pdf).
+El informe detallado elaborado a partir de los experimentos conducidos en este proyecto se encuentran en el archivo [Laboratorio_2_Informe_v1.0.pdf](Laboratorio_2_Informe_v1.0.pdf).
 
 # Experimentos
 
